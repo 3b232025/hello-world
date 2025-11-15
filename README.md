@@ -9,3 +9,6 @@ Hello World repository for Git tutorial
     專案說明文件，描述本練習的目的與內容。
 
     It now includes steps for GitHub
+
+
+    This tutorial focuses mainly on Git and using GitHub as its remote.
