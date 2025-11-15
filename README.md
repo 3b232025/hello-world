@@ -7,3 +7,5 @@ Hello World repository for Git tutorial
 
 -   **README.md**\
     專案說明文件，描述本練習的目的與內容。
+
+    It now includes steps for GitHub
